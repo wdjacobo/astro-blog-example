@@ -61,5 +61,5 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  base: "/astro-blog-example",
+  //base: "/astro-blog-example",
 })
